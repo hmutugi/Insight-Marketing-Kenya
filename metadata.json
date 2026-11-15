@@ -1,0 +1,8 @@
+{
+  "name": "Insight Marketing Kenya",
+  "description": "Digital marketing, SEO, paid advertising, and conversion-focused web development for businesses in Kenya.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
